@@ -84,7 +84,7 @@ public class Main {
             fr += 7;
         }
 
-        System.out.println("Задание 8");
+        System.out.println("Задание 8.");
 
         int start = 0;
         int firstYear = 1824;
