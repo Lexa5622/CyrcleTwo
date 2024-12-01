@@ -12,8 +12,9 @@ public class Main {
         int moneyMonth = 15_000 ;
         while (accumulate < totalAccumulate) {
                 accumulate += moneyMonth;
+                System.out.println("Месяц " + accumulate / moneyMonth + " сумма накоплений равна " + accumulate + " рублей");
             }
-        System.out.println("Месяц " + accumulate / moneyMonth + " сумма накоплений равна " + accumulate + " рублей");
+
 
         System.out.println("Задание 2");
 
